@@ -10,6 +10,8 @@ see
 https://goo.gl/nj1iDZ
 https://communities.sas.com/t5/ODS-and-Base-Reporting/Automatic-generation-of-table-titles-in-long-PDF-reports/m-p/357198
 
+added clinical repos on end
+
 /*               _     _
  _ __  _ __ ___ | |__ | | ___ _ __ ___
 | `_ \| `__/ _ \| `_ \| |/ _ \ `_ ` _ \
@@ -217,6 +219,35 @@ run;quit;
 /*   Program: DS_T_02.sas  Input: sashelp.iris   Date: 04MAR24                                                            */
 /*                                                                                                                        */
 /**************************************************************************************************************************/
+                                                                                                                                        
+    /*    _ _       _           _                                                                                                       
+      ___| (_)_ __ (_) ___ __ _| |  _ __ ___ _ __   ___  ___                                                                            
+     / __| | | `_ \| |/ __/ _` | | | `__/ _ \ `_ \ / _ \/ __|                                                                           
+    | (__| | | | | | | (_| (_| | | | | |  __/ |_) | (_) \__ \                                                                           
+     \___|_|_|_| |_|_|\___\__,_|_| |_|  \___| .__/ \___/|___/                                                                           
+                                            |_|                                                                                         
+    */                                                                                                                                  
+                                                                                                                                        
+    https://github.com/rogerjdeangelis/utl-Compendium-of-proc-report-clinical-tables                                                    
+    https://github.com/rogerjdeangelis/utl-clinical-if-a-patient-answers-yes-to-any-of-four-questions-they-will-be-ineligible           
+    https://github.com/rogerjdeangelis/utl-clinical-trials-futility-analysis                                                            
+    https://github.com/rogerjdeangelis/utl-create-a-simple-n-percent-clinical-table-in-r-sas-wps-python-output-pdf-rtf-xlsx-html-list   
+    https://github.com/rogerjdeangelis/utl-creating-a-clinical-demographic-report-using-r-and-python-sql                                
+    https://github.com/rogerjdeangelis/utl-creating-a-clinical-n-mean-stddev-median-min-max-sas-dataset-from-proc-tabulate              
+    https://github.com/rogerjdeangelis/utl-data-process-model-for-clinical-adverse-events                                               
+    https://github.com/rogerjdeangelis/utl-do-clinical-visits-occur-according-to-study-schedule                                         
+    https://github.com/rogerjdeangelis/utl-excluding-patients-that-had-same-condition-pre-and-post-clinical-randomization-hash          
+    https://github.com/rogerjdeangelis/utl-extract-icd9-codes-from-strings-clinical                                                     
+    https://github.com/rogerjdeangelis/utl-last-assay-date-prior-to-exposure-date-clinical                                              
+    https://github.com/rogerjdeangelis/utl-make-fake-relational-clinical-tables-demographics-lab-exposure-adverse-events                
+    https://github.com/rogerjdeangelis/utl-mapping-clinical-terms-to-descriptions-for-a-large-number-of-vocabularies                    
+    https://github.com/rogerjdeangelis/utl-randomly-select-an-equal-number-of-screened-subjects-to-each-arm-of-a-clinical-trial         
+    https://github.com/rogerjdeangelis/utl-scan-and-extract-character-and-numeric-data-from-a-clinical-narative-of-one-million-bytes    
+    https://github.com/rogerjdeangelis/utl-set-the-clinical-programming-environment-and-extract-titles-foot-column-headings-from-mocks  
+    https://github.com/rogerjdeangelis/utl_clinical_n_percent_crosstab                                                                  
+    https://github.com/rogerjdeangelis/utl_clinical_report                                                                              
+    https://github.com/rogerjdeangelis/utl_minimal_code_for_demographic_clinical_n_percent_report                                       
+    https://github.com/rogerjdeangelis/utl_minimum_code_npct_clinical_report_with_bigN_headers                                          
 
 /*              _
   ___ _ __   __| |
